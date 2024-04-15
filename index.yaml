@@ -1,0 +1,17 @@
+title: Роботизация в СПб ИАЦ
+description: Этот сайт посвящен всему, что связано с роботизацие в Санкт-Петербурге командой Санкт-Петербургского Информационно-Аналитического Центра
+meta:
+  title: Метаданные
+  noIndex: true
+links:
+- title: Список Роботов
+  description: Тут можно посмотреть список роботов и органов власти, где реализизованы наши роботы
+  href: about.md
+- title: Как попробовать
+  description: С чего начать работу
+  href: how-it-work.md
+- title: Yandex Flavored Markdown
+  description: Описание языка Yandex Flavored Markdown.
+  href: index-yfm.md
+
+   
