@@ -4,9 +4,9 @@ meta:
   title: Главная страница
   noIndex: true
 links:
-- title: Список Роботов
+- title: Список ИОГВ и Роботов
   description: Тут можно посмотреть список роботов и органов власти, где реализизованы наши роботы
-  href: about.md
+  href: list-of-iogv.md
 - title: Как попробовать роботизацию?
   description: С чего начать работу
   href: how-it-work.md

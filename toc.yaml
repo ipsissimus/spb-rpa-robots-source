@@ -38,3 +38,5 @@ items:
   - name: Наша Команда
     expanded: true
     href: index-yfm.md
+  - name: Пресса о нас
+    href: pr.md
