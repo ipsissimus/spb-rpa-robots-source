@@ -25,3 +25,7 @@
 [Роботы в Центре Информационного Сопровождения](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/272046)
 
 [Роботы в Василеостровском Районе](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/276320/) с перепостом в [CNEWS](https://www.cnews.ru/news/line/2024-03-20_administratsiya_vasileostrovskogo), [Портал Нацпроекты РФ](https://нацпроекты.рф/нового-программного-робота-тестирую/), [INTERFAX](https://www.interfax-russia.ru/northwest/cifrovoy-peterburg/robot-budet-proveryat-dohody-v-administracii-vasileostrovskogo-rayona-peterburga), [RE-PORT](https://re-port.ru/pressreleases/v_sankt-peterburge_testiruyut_novogo_programmnogo_robota/), [Бизнес Онлайн](https://bizon.ru/news/id/678796-v-sankt-peterburge-testiruyut-novogo-programmnogo-robota), [Connect-wit](https://www.connect-wit.ru/v-sankt-peterburge-testiruyut-novogo-programmnogo-robota.html), [COMNEWS](https://www.comnews.ru/content/232179/2024-03-20/2024-w12/1011/administraciya-vasileostrovskogo-rayona-sankt-peterburga-testiruet-novogo-programmnogo-robota)
+
+[Роботы в Комитете по Тарифам](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/278935/)
+
+[Цифровая Экономика о нас](https://www.comnews.ru/digital-economy/content/232987/2024-05-02/2024-w18/1016/robot-sluzhbe-gosudarstva-opyt-peterburga)
