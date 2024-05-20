@@ -4,6 +4,8 @@
 
 [Стали проектом года](https://t.me/skaz_spb/1750) 
 
+[Программные роботы помогают оптимизировать рабочие процессы](https://globalcio.ru/discussion/40480/)
+
 [Роботы в Комитете по Финансам](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/248333)
 
 [Роботы в Красносельской Администрации](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/261095)
