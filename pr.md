@@ -31,3 +31,5 @@
 [Роботы в Комитете по Тарифам](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/278935/) с перепостом в [Деловом Петербурге](https://www.dp.ru/a/2024/05/03/smolnij-vnedril-robotov-v)
 
 [Цифровая Экономика о нас](https://www.comnews.ru/digital-economy/content/232987/2024-05-02/2024-w18/1016/robot-sluzhbe-gosudarstva-opyt-peterburga)
+
+[Роботы в ГАТИ](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/283908/) с перепостом в [CNEWS](https://www.cnews.ru/news/line/2024-08-02_v_peterburge_programmnyj), [Конкретно.ру](https://konkretno.ru/sity_obshestvo/160858-robot-razgruzil-ot-rutinnyh-zadach-sotrudnikov-gati.html), [COMNEWS](https://www.comnews.ru/content/234596/2024-08-02/2024-w31/1011/robot-razgruzil-rutinnykh-zadach-sotrudnikov-gati#:~:text=В%20ГАТИ%20отмечают%2C%20что%20внедрённый,более%20сложных%20и%20ответственных%20задач.), [Вечерний Санкт-Петербург](https://vecherka-spb.ru/2024/08/02/robot-razgruzil-ot-rutinnikh-zadach-sotrudnikov-peterburgskoi-gosudarstvennoi-administrativnotekhnicheskoi-inspektsii), 
