@@ -31,6 +31,8 @@ navigation:
 items:
   - name: Роботизация бизнес-процессов в ИОГВ
     href: about.md
+  - name: Немного о роботизации
+    href: about-robots.md
   - name: Как заказать робота?
     href: how-it-work.md
   - name: Список Органов Власти где трудятся наши роботы

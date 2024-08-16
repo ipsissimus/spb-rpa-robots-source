@@ -1,4 +1,3 @@
-
 # Список написанных про нас пресc-релизов
 ## Ниже приведён список пресс-релизов, которые писали про нас или наших роботов
 
@@ -10,7 +9,7 @@
 
 [Роботы в Красносельской Администрации](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/261095)
 
-[Роботы в Невской Админисрации](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/262627)
+[Роботы в Невской Администрации](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/262627)
 
 [Роботы в Администрации Центрального Района](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/265093)
 
@@ -18,7 +17,7 @@
 
 Видео про роботов в Архивном комитете на [Канале Санкт-Петербург](https://tvspb.ru/news/2023/12/16/v-peterburge-oczifrovku-plastinok-s-muzykoj-blokadnyh-let-osushhestvlyaet-robot) и [НТВ](https://www.ntv.ru/novosti/2805632)
 
-[Роботы в ГЖИ](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/268110)
+[Роботы в ГЖИ](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/268110) и ещё раз [роботы в ГЖИ](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/284263/) с перепостом в [CNEWS](https://www.cnews.ru/news/line/2024-08-12_programmnyj_robot_pomogaet), [БезФормата](https://sanktpeterburg.bezformata.com/listnews/peterburge-programmniy-robot-pomogaet/135145635/), 
 
 [Роботы в Красносельской Администрации](https://www.gov.spb.ru/gov/admin/kazarin-sv/news/270117)
 
